@@ -1,8 +1,9 @@
 <!--Section 1: Introduction-->
-# 👋 Hi, I'm Boniface
+## ABOUT ME
 
-Welcome to my portfolio! I’m a data analyst passionate about transforming data into insights.  
-Here you’ll find projects, dashboards, and tools I’ve worked on.
+Lead Data Analyst at Rows & Columns with a passion for transforming raw data into actionable insights. Skilled in Power BI, Excel, DAX, and SQL, I specialize in building dynamic dashboards, streamlining reporting workflows, and enabling data-driven decisions.
+
+With experience in business and sports analytics, I bring a versatile approach to data storytelling, stakeholder engagement, and team leadership. Let’s connect to turn data into impactful stories!
 
 <!--Mention Projects-->
 
