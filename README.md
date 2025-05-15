@@ -24,27 +24,10 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
 
 ## 📊 Projects
 
-- **BI 360 – Power BI | MySQL**  
-*Problem Statement*:
-AtliQ's rapid business expansion across various countries has led to increasingly complex challenges. Despite growth, the company continues to rely on Excel for data analytics, resulting in inefficiencies. A lack of effective analytics recently caused a major loss in Latin America.
-
-*Objective*:
-Transform AtliQ’s analytics from Excel to a dynamic, integrated Power BI dashboard, enabling data-driven decision-making across key business domains.
-
-*Solution*:
-Power BI dashboards provide a 360-degree business overview:
-
-Finance: Track Profit & Loss, Net Sales, Gross Margin, and Net Profit %.
-
-Sales: Identify top customers and products driving revenue.
-
-Marketing: Compare regions and markets for performance insights.
-
-Supply Chain: Monitor inventory, forecast accuracy, and manage supply chain metrics.
-
-Executive: Provide leadership with a high-level view of revenue and performance metrics.
-
-Empowering AtliQ with data insights to drive growth and optimize performance!  
+- **BI 360 – Power BI | MySQL**
+  
+AtliQ's rapid global expansion led to complex challenges and significant losses in Latin America due to inefficient, Excel-based analytics. To enhance decision-making, we developed dynamic Power BI dashboards covering finance, sales, marketing, supply chain, and executive insights. This transition empowers AtliQ with data-driven strategies for growth and performance optimization. 
+![image] ( 
   [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 - **Customer Segmentation – Python & K-Means**  
