@@ -13,6 +13,10 @@ Let’s connect to turn data into impactful stories!
 *Eranad Knowledge City Technical
 Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019*
 
+## SKILLS
+
+***POWER BI*** | ***MS EXCEL*** | ***SQL*** | ***TABLEAU*** | ***PYTHON*** 
+
 ## 📊 Featured Projects
 
 - **Sales Dashboard – Power BI**  
