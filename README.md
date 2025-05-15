@@ -24,7 +24,7 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
 
 ## 📊 Projects
 
-- **BI 360 – Power BI,MySQL**
+- **BI 360 – [Power BI and MySQL]**
   
 AtliQ's rapid global expansion led to complex challenges and significant losses in Latin America due to inefficient, Excel-based analytics. To enhance decision-making, we developed dynamic Power BI dashboards covering finance, sales, marketing, supply chain, and executive insights. This transition empowers AtliQ with data-driven strategies for growth and performance optimization. 
 ![image](1.png)
