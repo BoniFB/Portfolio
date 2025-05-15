@@ -10,9 +10,8 @@ Let’s connect to turn data into impactful stories!
 <!--Mention Projects-->
 
 ## EDUCATION
-Eranad Knowledge City Technical
-Campus, Manjeri
-B.Tech in Electronics and Communication     2015 – 2019
+*Eranad Knowledge City Technical
+Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019*
 
 ## 📊 Featured Projects
 
