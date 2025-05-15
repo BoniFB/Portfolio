@@ -43,7 +43,7 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="boniboban@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="boniboban@gmail.com">boniboban@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -59,7 +59,7 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/boniboban">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/boniboban">Lets connect on LinkedIn</a></td>
     </tr>
     </tr>
   </tbody>
