@@ -27,7 +27,7 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
 - **BI 360 – Power BI | MySQL**
   
 AtliQ's rapid global expansion led to complex challenges and significant losses in Latin America due to inefficient, Excel-based analytics. To enhance decision-making, we developed dynamic Power BI dashboards covering finance, sales, marketing, supply chain, and executive insights. This transition empowers AtliQ with data-driven strategies for growth and performance optimization. 
-![image] ( 
+![image](1.png)
   [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 - **Customer Segmentation – Python & K-Means**  
