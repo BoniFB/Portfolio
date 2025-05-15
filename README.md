@@ -22,17 +22,18 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
 
 <!-- Relevent Skills-->
 
-## 📊 Projects
+## 📊 PROJECTS
 
 - **BI 360 – [Power BI and MySQL]**
   
 AtliQ's rapid global expansion led to complex challenges and significant losses in Latin America due to inefficient, Excel-based analytics. To enhance decision-making, we developed dynamic Power BI dashboards covering finance, sales, marketing, supply chain, and executive insights. This transition empowers AtliQ with data-driven strategies for growth and performance optimization. 
 ![image](1.png)
-  [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-- **Customer Segmentation – Python & K-Means**  
-  Grouping customers using clustering.  
-  [View Project](#)
+- **Hospitality Analysis – [Power BI and Excel]**  
+  AtliQ Grands has been facing declining market share and revenue due to poor competition and management decisions. The project aims to boost market share and revenue in the luxury hotel segment through data-driven strategies and business intelligence. Key metrics analyzed include revenue, RevPAR, ADR, DSRN, DBRN, DURN, realization percentage, occupancy percentage, and cancellation percentage. I developed interactive dashboards to support informed decision-making using advanced Power BI techniques like calculated columns, data modeling, page navigation, bookmarks, DAX, and M Language. These insights help AtliQ Grands enhance performance and regain a competitive edge.
+![image](2.png)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)
 
 <!-- Relevent Skills-->
 
