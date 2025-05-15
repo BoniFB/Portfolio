@@ -55,12 +55,11 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/boniboban">Lets connect on LinkedIn</a></td>
-    </tr>
     </tr>
   </tbody>
 </table>
