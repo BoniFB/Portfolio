@@ -10,17 +10,41 @@ Let’s connect to turn data into impactful stories!
 <!--Mention Projects-->
 
 ## EDUCATION
-*Eranad Knowledge City Technical
-Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019*
 
-## SKILLS
+Eranad Knowledge City Technical
+Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
+
+## 🛠 TOOLS & SKILLS
 
 ***POWER BI*** | ***MS EXCEL*** | ***SQL*** | ***TABLEAU*** | ***PYTHON*** 
+- **Data Cleaning and Transformation**
+- **Stakeholder Management and Leadership**
 
-## 📊 Featured Projects
+<!-- Relevent Skills-->
 
-- **Sales Dashboard – Power BI**  
-  Visualizing KPIs and trends for retail sales.  
+## 📊 Projects
+
+- **BI 360 – Power BI | MySQL**  
+  - Problem Statement:
+AtliQ's rapid business expansion across various countries has led to increasingly complex challenges. Despite growth, the company continues to rely on Excel for data analytics, resulting in inefficiencies. A lack of effective analytics recently caused a major loss in Latin America.
+
+- Objective:
+Transform AtliQ’s analytics from Excel to a dynamic, integrated Power BI dashboard, enabling data-driven decision-making across key business domains.
+
+- Solution:
+Power BI dashboards provide a 360-degree business overview:
+
+Finance: Track Profit & Loss, Net Sales, Gross Margin, and Net Profit %.
+
+Sales: Identify top customers and products driving revenue.
+
+Marketing: Compare regions and markets for performance insights.
+
+Supply Chain: Monitor inventory, forecast accuracy, and manage supply chain metrics.
+
+Executive: Provide leadership with a high-level view of revenue and performance metrics.
+
+Empowering AtliQ with data insights to drive growth and optimize performance!  
   [View Dashboard](#)
 
 - **Customer Segmentation – Python & K-Means**  
@@ -29,7 +53,7 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019*
 
 <!-- Relevent Skills-->
 
-## 🛠 Tools & Skills
+
 
 - Power BI, Tableau  
 - Excel, SQL, Python (Pandas, NumPy)  
