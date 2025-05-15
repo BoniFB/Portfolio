@@ -36,9 +36,33 @@ Campus, Manjeri, B.Tech in Electronics and Communication 2015 – 2019
  
 <!--Contact -->
 
-## 📫 Contact
+## 📫 CONTACT DETAILS
 
-📧 boniboban@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/boniface)  
-🌐 [GitHub](https://github.com/boniface)
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="boniboban@gmail.com">anietieetuk@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 828-985-4724</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Malappuram, Kerala</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="www.linkedin.com/in/boniboban">The things I do daily on LinkedIn</a></td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+
 
