@@ -1,4 +1,12 @@
 title: Boniface 
-logo: Untitled design.png
+logo: assets/images/Untitled_design.png
 theme: jekyll-theme-minimal
 description: Lead Data Analyst | Data-Driven Decision Making
+author: Boniface Boben
+email: boniboban@gmail.com
+url: "https://boniface.github.io"
+baseurl: "/"
+twitter_username: boniboban
+linkedin_username: boniboban
+show_excerpts: true
+paginate: 5
